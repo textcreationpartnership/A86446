@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last great and terrible sea-fight between the English and Dutch, on Tuesday and Wednesday last, upon the Western sound neer Cornwal, continuing for the space of two and twenty houres: the particulars of the bloudy conflict; the manner of engagement; and how Sir G. Ayscue charged quite through the enemies fleet with the Rainbow, with the loss of 12 men, and 60 shot in the hull, the number of ships sunk, taken, and burnt on both sides; the great loss that befel the English in the Bonaventure, Elizabeth, and George; the ships rent and batter'd; and Capt. Pack, and divers others, torn limb from limb with canon-shot. Brought by the last post, Sunday August 22. And published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86446</idno>
+            <idno type="STC">Wing H2391</idno>
+            <idno type="STC">Thomason E674_13</idno>
+            <idno type="STC">ESTC R207204</idno>
+            <idno type="EEBO-CITATION">99866273</idno>
+            <idno type="PROQUEST">99866273</idno>
+            <idno type="VID">118540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118540)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last great and terrible sea-fight between the English and Dutch, on Tuesday and Wednesday last, upon the Western sound neer Cornwal, continuing for the space of two and twenty houres: the particulars of the bloudy conflict; the manner of engagement; and how Sir G. Ayscue charged quite through the enemies fleet with the Rainbow, with the loss of 12 men, and 60 shot in the hull, the number of ships sunk, taken, and burnt on both sides; the great loss that befel the English in the Bonaventure, Elizabeth, and George; the ships rent and batter'd; and Capt. Pack, and divers others, torn limb from limb with canon-shot. Brought by the last post, Sunday August 22. And published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton; and sold at the Royal Exchange in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>Signed and dated at end: J. Holding. Plymouth 18 August, 1652.</note>
+                  <note>Annotation on Thomason copy: "August 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118540:1" rendition="simple:additions"/>
+            <p>The laſt great and terrible SEA-FIGHT BETWEEN The Engliſh and the Dutch, on Tueſday and Wed<g ref="char:EOLhyphen"/>neſday laſt, upon the Weſtern Sound neer Cornwal, continuing for the ſpace of two and twenty houres: The particulars of this bloudy Conflict; the manner of Engagement; and how Sir G. Ayſcue charged quite through the enemies fleet with the Rainbow, with the loſs of 12 men, and 60 ſhot in the Hull; the number of ſhips ſunk, taken, and burnt on both ſides; the great loſs that befel the Engliſh in the Bona<g ref="char:EOLhyphen"/>venture, Elizabeth, and George; the ſhips rent and batter'd; and Capt. Pack, and divers others, torn limb from limb with Canon-ſhot. <hi>Brought by the laſt Poſt, Sunday Auguſt</hi> 22. <hi>And publiſhed according to Order.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a sea-battle with two ships or galleons and two smaller vessels</figDesc>
+            </figure>
+            <p>London, Printed for G. Horton; and ſold at the Royal Exchange in Cornhil.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118540:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:118540:2"/>
+            <head>A Terrible and Bloudy Sea-fight between the Engliſh and the Dutch, upon the Coaſt of Cornwal: with the particulars there<g ref="char:EOLhyphen"/>of; and the number of ſhips ſunk, burnt and taken on both ſides; the like diſpute hath not been heard of theſe many yeares.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the fourteenth inſtant, the Dutch Arma<g ref="char:EOLhyphen"/>do (conſiſting of fourſcore and ten ſayl, and twelve Fire-ſhips) mounted on their Warlike Throne, ſet forth Precepts to our ſons of Thunder, and chaſed Captain Bane into this Harbour, who brings advertiſements to the Ma<g ref="char:EOLhyphen"/>jor and Governour, that the whole Fleet are ſtand<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:118540:3"/>up towards the Iſle of Wight; from whence we hear, that they bare up on the back-ſide, and ſailed directly to Sir George Ayſcue, who were riding thirty miles off from Plymouth: And on the ſix<g ref="char:EOLhyphen"/>teenth inſtant, De-Witte their Admiral, with the reſt of his Men of War, even like a Grove of Ce<g ref="char:EOLhyphen"/>dars, bore up with hoiſted and booming ſailes to<g ref="char:EOLhyphen"/>wards the South-Eaſt Sound, reſolving to act the Theatre of War upon that part of Neptune's Regi<g ref="char:EOLhyphen"/>on; in order thereunto, the Vice-Admiral of Zea<g ref="char:EOLhyphen"/>land, with twenty ſtout ſhips, and eleven Frigats, drew forth, and prepared themſelves for an Aſſault; which Sir George Ayſcue perceiving, gave imme<g ref="char:EOLhyphen"/>diate Orders and Inſtructions to all his Captains, to ply windward, and to receive their ſalutation, which was acted with ſuch a revengeful rage, that both parties being inflamed, reſolv'd to fight untill the one was tamed; inſomuch, that Sir George with the Rainbow, charged them quite through, but not be<g ref="char:EOLhyphen"/>ing able to go to the windward of all, received 40 broad ſides, and with great difficulty got off, onely with the loſs of three men, and his Bolt-ſplit. In the midſt of this diſpute, the reſt of our ſhips were not ſilent; but each man acted with an irreſiſtable cou<g ref="char:EOLhyphen"/>rage and reſolution; And from four of the clock, till 8 at night, the fight was extream hot; Then Nights
+<pb n="5" facs="tcp:118540:3"/>ſable Curtains being drawn the diſpute ceaſed, and both fleets lay in a defenſive poſture againſt each o<g ref="char:EOLhyphen"/>ther, with all their lights hanging forth. This Con<g ref="char:EOLhyphen"/>flict was maintained with great gallantry and reſo<g ref="char:EOLhyphen"/>lution on both ſides; and great was the execution; for we have received great loſs, the George and Bo<g ref="char:EOLhyphen"/>naventure, being much ſhatter'd and torn, and for the preſent unfit for ſervice; divers were rent limb from limb by the Canon-ſhot; ſome had their arms ſhot off; others, their legs; amongſt the reſt, valiant Captain Pack, (an excellent ſtout Sea-man) hath his leg ſhot off; Captain Liſle is wounded in the ſhoul<g ref="char:EOLhyphen"/>der, and ſince dead; Capt. Clerk is ſaid to be ſlain, &amp; divers others. Sir George loſt 12 men, beſides ſome wounded; and received 60 ſhot in her Hull; the Sampſon, Elizabeth, and divers others, received great loſs, and many a ſtout Sea-man hath made the Sea his grave; and too too many (for the preſent) lies languiſhing of their wounds.</p>
+            <p>Yet notwithſtanding, the Hollander hath little cauſe to brag, for his loſs is exceeding great, many of their ſhips are rent and torn; the Rear Admiral is ſunk, the Captain of Fluſhing, the Armes of Hol<g ref="char:EOLhyphen"/>land (beware the Body next) and three other gallant ſhips.</p>
+            <pb n="6" facs="tcp:118540:4"/>
+            <p>However, the Dutch-men reſolved not to decline engagement; but lay in a defen<g ref="char:EOLhyphen"/>ſive poſture till Tueſday morning; at which time, they hung forth their bloudy flag of defiance, on the Top-maſt head; and gave ſundry Vollies from aboard, retaining them as Trophies of Victory; the which, did ſo exaſperate the ſpirits of the Engliſh, that a Councel of War was called, to conſult what to do, in further proceedings againſt the enemy, and it was unanimouſly reſolved by the ſaid Councel to ingage them again: Hereupon preparation was made, and after prayers, and ſeeking of God, for a bleſſing upon their enterpriſe, the Admiral, with 33 Men of War, hoiſted ſail, and ſtood up to<g ref="char:EOLhyphen"/>wards them; and about one of the clock in the Afternoon, both Navies engaged, and for the ſpace of ſeven houres furiouſly was the fight maintained, and great execution a<g ref="char:EOLhyphen"/>gain
+<pb n="7" facs="tcp:118540:4"/>done on both ſides, eſpecially to the Hollanders; but the night drawing on, the diſpute ended: And this morning the ene<g ref="char:EOLhyphen"/>my had given us the ſlip about ſix leagues; ſome of our ſhips are in purſuit; others are, come into this Harbour, with wounded men.</p>
+            <p>The five hundred men ſent from this Town to Sir George, deported themſelves with ſingular dexterity and courage, and were in the thickeſt of the Conflict; many of them are ſlain, and about 60 wounded.</p>
+            <p>This hath been the bloudieſt Conflict that ever hapned between the two Repub<g ref="char:EOLhyphen"/>liques; and conſequently, 'tis but a begining of the Chaos of confuſion; for it is now too late to diſpute the Ground-work, the Ar<g ref="char:EOLhyphen"/>guments of bloud being drawn at large in undeniable Maximes: Yet I doubt not, but the Lord will perfect that Work which he
+<pb n="8" facs="tcp:118540:5"/>hath thus triumphantly carried on, even for thoſe who deſire to praiſe and magnifie his glorious Name. As for the particulars of the fight, I cannot repreſent no otherwiſe, at preſent, but that we have taken ſeventeen, ſunk five, fired two, and diſperſed the reſt; but not without great loſs, as is before ſpe<g ref="char:EOLhyphen"/>cified; which is all at preſent, from</p>
+            <closer>
+               <signed>Your devoted ſervant, J. HOLDING.</signed>
+               <dateline>Plymouth <date>18 Auguſt, 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
